@@ -1,0 +1,14 @@
+/** toolbar icons **/
+.icon-32-nuevo	{ background-image:url(../img/header/nuevo.png); }
+.icon-32-editar { background-image:url(../img/header/editar.png); }
+.icon-32-guardar { background-image:url(../img/header/guardar.png); }
+.icon-32-cancelar { background-image:url(../img/header/cancelar.png); }
+.icon-32-ayuda { background-image:url(../img/header/ayuda.png); }
+.icon-32-inicio { background-image:url(../img/header/inicio.png); }
+.icon-32-guardar_editar { background-image:url(../img/header/guardar_editar.png); }
+.icon-32-importe { background-image:url(../img/header/importe.png); background-repeat:no-repeat; }
+.icon-32-venta { background-image:url(../img/header/venta.png); }
+.icon-32-regresar { background-image: url(../img/header/regresar.png); }
+.icon-32-buscar_p{ background-image:url(../img/icon/buscar_p.png); }
+.icon-32-pdf{ background-image:url(../img/header/icono_pdf.png); }
+.icon-32-printer{ background-image:url(../img/header/printer.png); }
